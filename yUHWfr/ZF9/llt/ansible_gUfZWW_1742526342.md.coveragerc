@@ -23,7 +23,6 @@ omit =
 source =
     .
 source_pkgs =
-    awx
 
 [xml]
 output = ./reports/coverage.xml
