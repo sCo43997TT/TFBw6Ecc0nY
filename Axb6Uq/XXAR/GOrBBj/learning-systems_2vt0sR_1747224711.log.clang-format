@@ -24,6 +24,5 @@ AccessModifierOffset: -2  # The private/protected/public has no indent in class
 Standard:  Cpp11
 AllowAllParametersOfDeclarationOnNextLine: true
 BinPackParameters: false
-BinPackArguments: false
 ...
 
