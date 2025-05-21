@@ -1,3 +1,2 @@
 !target/*-runner
 !target/lib/*
-!target/quarkus-app/*
