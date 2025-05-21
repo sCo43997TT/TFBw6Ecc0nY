@@ -8,7 +8,6 @@ indent_style = space
 [*.{php,xml,html,json}]
 [*.md]
 
-indent_size = 2
 
 [makefile]
 indent_style = tab
