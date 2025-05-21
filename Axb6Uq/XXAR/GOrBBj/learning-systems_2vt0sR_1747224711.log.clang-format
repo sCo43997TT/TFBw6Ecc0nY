@@ -15,7 +15,6 @@
 #   http://clang.llvm.org/docs/ClangFormatStyleOptions.html
 ---
 Language:        Cpp
-BasedOnStyle:  Google
 IndentWidth:     4
 TabWidth:        4
 ContinuationIndentWidth: 4
