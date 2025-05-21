@@ -23,4 +23,3 @@ Standard:  Cpp11
 AllowAllParametersOfDeclarationOnNextLine: true
 BinPackParameters: false
 ...
-
