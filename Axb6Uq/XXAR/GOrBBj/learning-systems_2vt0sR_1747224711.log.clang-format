@@ -1,4 +1,3 @@
-# This file is used by clang-format to autoformat paddle source code
 # It need to install llvm and clang to format source code style.
 # The basic usage is,
 #   clang-format -i -style=file PATH/TO/SOURCE/CODE
