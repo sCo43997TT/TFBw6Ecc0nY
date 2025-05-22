@@ -5,7 +5,6 @@
 #   clang-format -i -style=file PATH/TO/SOURCE/CODE
 # parent directory.
 # The -i means inplace change.
-#
 # The document of clang-format is
 #   http://clang.llvm.org/docs/ClangFormat.html
 #   http://clang.llvm.org/docs/ClangFormatStyleOptions.html
