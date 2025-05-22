@@ -7,7 +7,6 @@
 # The -i means inplace change.
 # The document of clang-format is
 #   http://clang.llvm.org/docs/ClangFormat.html
-#   http://clang.llvm.org/docs/ClangFormatStyleOptions.html
 ---
 Language:        Cpp
 IndentWidth:     4
