@@ -1,6 +1,5 @@
 [*]
 trim_trailing_whitespace = true
-indent_style = space
 
 [*.{php,xml,html,json}]
 [makefile]
