@@ -4,7 +4,6 @@ indent_style = space
 
 # 4 space indenting
 [*.{php,xml,html,json}]
-[*.md]
 
 
 [makefile]
