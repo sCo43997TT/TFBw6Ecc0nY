@@ -2,7 +2,6 @@
 trim_trailing_whitespace = true
 indent_style = space
 
-# 4 space indenting
 [*.{php,xml,html,json}]
 
 [makefile]
