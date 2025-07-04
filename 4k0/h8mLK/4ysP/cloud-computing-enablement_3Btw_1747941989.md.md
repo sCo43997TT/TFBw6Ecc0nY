@@ -4,7 +4,6 @@ _If you are using wasmCloud in your organization, please add your company name t
 To add your organization as an [adopter](https://github.com/cncf/toc/blob/main/FAQ.md#what-is-the-definition-of-an-adopter), open a pull request that adds your
 organization's name. The list is in alphabetical order.
 
-Note: There are several other organizations and users that are unable to publicly share their stories but are active in the wasmCloud community.
 We appreciate all our users and their contributions to making wasmCloud a successful CNCF project.
 
 | Organization | Contact | Status | Description of Use |
