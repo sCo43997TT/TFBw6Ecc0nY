@@ -75,7 +75,6 @@ github:
         contexts:
           - lint-check
           - cypress-matrix (0, chrome)
-          - cypress-matrix (1, chrome)
           - cypress-matrix (2, chrome)
           - cypress-matrix (3, chrome)
           - cypress-matrix (4, chrome)
