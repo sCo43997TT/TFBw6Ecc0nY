@@ -5,4 +5,3 @@ source = redash
 [report]
     */settings.py
     */python?.?/*
-show_missing = True
