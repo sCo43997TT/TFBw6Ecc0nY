@@ -26,7 +26,6 @@ Hardware contracts are ending soon. We'd like to ensure that we have enough time
 ACRA has 400 TBs and growing of video footage located in one data center. There are approximately 80,000 files. The amount of data grows by about 4 TB each day. Data integrity is key, so we need to validate each file in this migration. Although the data is raw video footage, our end users will need to be able to quickly retrieve it whenever needed.
 
 #### How is the data accessed?
-End users access the data on a network-attached storage (NAS) device. The NAS shares out the content using the NFS sharing protocol.
 
 #### What are your site requirements for each service?
 We need to maintain local access to the data.
