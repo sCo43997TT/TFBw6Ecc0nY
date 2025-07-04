@@ -6,4 +6,3 @@
       rvm install $ruby_version
       make && bundle install
 
-
