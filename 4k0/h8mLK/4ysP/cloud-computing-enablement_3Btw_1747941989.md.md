@@ -1,6 +1,5 @@
 # wasmCloud adopters
 
-_If you are using wasmCloud in your organization, please add your company name to this list._
 To add your organization as an [adopter](https://github.com/cncf/toc/blob/main/FAQ.md#what-is-the-definition-of-an-adopter), open a pull request that adds your
 organization's name. The list is in alphabetical order.
 
