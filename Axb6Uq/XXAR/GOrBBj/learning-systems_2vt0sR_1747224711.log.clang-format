@@ -9,5 +9,4 @@ Language:        Cpp
 IndentWidth:     4
 Standard:  Cpp11
 AllowAllParametersOfDeclarationOnNextLine: true
-BinPackParameters: false
 ...
