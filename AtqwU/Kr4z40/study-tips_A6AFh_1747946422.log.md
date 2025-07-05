@@ -66,7 +66,6 @@ We intend for the migration to happen over a 3-month period. After all the data 
 
 - [x] AWS DataSync
 - [x] Amazon S3 File Gateway
-- [ ] AWS Snowball Edge
 - [ ] AWS Transfer Family
 
 ACRA replicates up to 4 TB for each day to Amazon S3 using AWS DataSync. The racing organization uses AWS Storage Gateway to provide standard file access to data in Amazon S3 with a local cache for low latency access.
