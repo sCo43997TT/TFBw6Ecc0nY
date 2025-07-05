@@ -18,7 +18,6 @@ ContinuationIndentWidth: 4
 Cpp11BracedListStyle: true
 DerivePointerAlignment: false
 ExperimentalAutoDetectBinPacking: true
-IndentCaseLabels: true
 IndentFunctionDeclarationAfterType: false
 IndentWidth:     2
 MaxEmptyLinesToKeep: 1
