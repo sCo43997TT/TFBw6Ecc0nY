@@ -1,5 +1,4 @@
 sudo: false
-before_install:
   - git fetch origin +refs/notes/devtools/*:refs/notes/devtools/*
   - git fetch origin +refs/heads/master:refs/heads/master
 before_script:
