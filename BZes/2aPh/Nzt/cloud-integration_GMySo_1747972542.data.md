@@ -72,7 +72,6 @@ CacheCloud是一个Redis云管理平台：支持Redis多种架构(Standalone、S
 ## 贡献成员
 
 <a href="https://github.com/sohutv/cachecloud/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sohutv/cachecloud" />
 </a>
 
 ## 感谢支持者
