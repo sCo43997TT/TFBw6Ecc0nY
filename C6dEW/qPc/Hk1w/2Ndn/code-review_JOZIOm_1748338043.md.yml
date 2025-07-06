@@ -1,5 +1,4 @@
 sudo: false
-language: go
 before_install:
   - git fetch --unshallow
   - git fetch origin +refs/notes/devtools/*:refs/notes/devtools/*
