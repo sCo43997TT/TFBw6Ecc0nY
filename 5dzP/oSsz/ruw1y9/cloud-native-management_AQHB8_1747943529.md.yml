@@ -1,4 +1,3 @@
-# Please adjust to your needs (see https://www.gitpod.io/docs/config-gitpod-file)
 
   - init: |
       ruby_version=$(grep 'ruby ' Gemfile | head -n 1 | cut -d"'" -f2) 
