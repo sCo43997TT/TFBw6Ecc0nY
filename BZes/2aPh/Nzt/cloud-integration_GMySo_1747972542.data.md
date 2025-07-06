@@ -21,7 +21,6 @@
   <h2>CacheCloud云平台</h2>
   <a href="https://github.com/sohutv/cachecloud/blob/main/cachecloud-web/src/main/resources/static/wiki/quickstart/index.md">Quickstart</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/sohutv/cachecloud/blob/main/cachecloud-web/src/main/resources/static/wiki/access/client.md">Client</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/sohutv/cachecloud/wiki">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
