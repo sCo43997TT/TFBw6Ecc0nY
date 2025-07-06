@@ -3,7 +3,6 @@
 #   clang-format -i -style=file PATH/TO/SOURCE/CODE
 # The -i means inplace change.
 # The document of clang-format is
-#   http://clang.llvm.org/docs/ClangFormat.html
 ---
 Language:        Cpp
 IndentWidth:     4
