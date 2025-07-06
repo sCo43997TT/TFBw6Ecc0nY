@@ -22,7 +22,6 @@ IndentFunctionDeclarationAfterType: false
 IndentWidth:     2
 MaxEmptyLinesToKeep: 1
 ObjCSpaceBeforeProtocolList: false
-PenaltyBreakComment: 1000
 PenaltyBreakFirstLessLess: 20
 PenaltyBreakString: 1000
 PenaltyExcessCharacter: 1000000
