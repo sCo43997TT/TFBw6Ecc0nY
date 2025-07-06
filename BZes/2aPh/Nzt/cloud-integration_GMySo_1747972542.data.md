@@ -93,4 +93,4 @@ CacheCloud是一个Redis云管理平台：支持Redis多种架构(Standalone、S
 
 <img src="cachecloud-web/src/main/resources/static/img/readme/wechat.png" width="30%"/>
 
-如果你觉得CacheCloud对你有帮助，欢迎Star⭐。
+如果你觉得CacheCloud对你有帮助，欢迎Star⭐。
