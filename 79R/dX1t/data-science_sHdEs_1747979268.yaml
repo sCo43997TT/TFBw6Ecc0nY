@@ -22,7 +22,6 @@ notifications:
   pullrequests: notifications@superset.apache.org
   discussions: notifications@superset.apache.org
   del_branch_on_merge: true
-  description: "Apache Superset is a Data Visualization and Data Exploration Platform"
   homepage: https://superset.apache.org/
   labels:
     - superset
