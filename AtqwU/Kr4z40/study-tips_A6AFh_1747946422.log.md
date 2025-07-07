@@ -7,7 +7,6 @@ AnyCompany Racing Automotive (ACRA) is a global racing organization that hosts r
 ACRA wants to replicate its 400 TB video archive to AWS. ACRA qualifies as a large-scale migration effort and requires a plan to move its data to Amazon S3.
 
 ## Business goal and objectives
-
 #### What business goal or objective is driving the data migration plan?
 Managing another data center for our offsite requirements is cost-prohibitive. Co-location options don't meet our goal for the same reason—cost. We have two goals at play. We need to replicate this data offsite for backup and recovery purposes. Additionally, our end users depend on low latency access to the data, so the content will need to be accessible in our data center. We have plans to create data lakes for our other data sets, but currently, our focus is on our video content.
 
