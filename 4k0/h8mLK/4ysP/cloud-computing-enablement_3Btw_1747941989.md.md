@@ -2,7 +2,6 @@
 
 To add your organization as an [adopter](https://github.com/cncf/toc/blob/main/FAQ.md#what-is-the-definition-of-an-adopter), open a pull request that adds your
 organization's name. The list is in alphabetical order.
-
 We appreciate all our users and their contributions to making wasmCloud a successful CNCF project.
 | [Cosmonic](https://www.cosmonic.com) | [@thomastaylor312](https://github.com/thomastaylor312) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | Cosmonic is a distributed app platform built on wasmCloud for wasmCloud apps. |
 | [SigScale](https://www.sigscale.com) | [@vances](https://github.com/vances) | ![internal](https://img.shields.io/badge/-internal-green?style=flat) | Developing support for service logic as customer provided Actors |
