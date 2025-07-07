@@ -43,7 +43,6 @@ notifications:
     - react
     - sql-editor
     - flask
-  features:
     # Enable issues management
     issues: true
     # Enable projects for project management boards
