@@ -1,3 +1,2 @@
   - git fetch origin +refs/notes/devtools/*:refs/notes/devtools/*
-before_script:
   - if grep "os/exec" `find ./ -name '*.go'`; then echo "Use the execabs package instead of exec" && exit 1; fi
