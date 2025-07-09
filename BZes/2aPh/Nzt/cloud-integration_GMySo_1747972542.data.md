@@ -9,7 +9,6 @@
 [github forks link]: https://useful-forks.github.io/?repo=sohutv%2Fcachecloud
 [github open issues badge]: https://flat.badgen.net/github/open-issues/sohutv/cachecloud?icon=github
 [github open issues link]: https://github.com/sohutv/cachecloud/issues?q=is%3Aissue+is%3Aopen
-[github open prs badge]: https://flat.badgen.net/github/open-prs/sohutv/cachecloud?icon=github
 [github open prs link]: https://github.com/sohutv/cachecloud/pulls?q=is%3Apr+is%3Aopen
 [github stars link]: https://github.com/sohutv/cachecloud/stargazers
 [latest commit to main badge]: https://flat.badgen.net/github/last-commit/sohutv/cachecloud/main?icon=github&color=yellow&label=last%20dev%20commit&cache=900
