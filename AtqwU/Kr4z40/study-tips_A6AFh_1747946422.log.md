@@ -57,7 +57,6 @@ We intend for the migration to happen over a 3-month period. After all the data 
 - [ ] AWS DataSync
 - [ ] Amazon S3 File Gateway
 - [ ] AWS Snowball Edge
-- [ ] AWS Transfer Family
 
 ## Solution
 
