@@ -31,7 +31,6 @@ We need to maintain local access to the data.
 #### What type of internet connectivity and available bandwidth do you have?
 We have a 1 Gbps internet connection for the data center. We sometimes reach bandwidth saturation. However, this project is a priority for us, so the amount of bandwidth is flexible. Additionally, we have an AWS Direct Connect connection to the eu-west-2 Region.
 
-#### Do you have a Virtual Machine infrastructure available to deploy a virtual appliance for your data migration?
 Yes, we do run a virtual infrastructure in our data center and have additional capacity.
 
 #### When does the data need to be available after the data is transferred?
