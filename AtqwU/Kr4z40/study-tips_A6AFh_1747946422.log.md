@@ -48,7 +48,6 @@ Our destination is Amazon S3.
 Our data centers are located in the United Kingdom. We intend to use the eu-west-2 (London) Region, as that Region fits our purpose for this project.
 
 ## Additional details
-
 #### What is your cutover window to start and complete the migration?
 We intend for the migration to happen over a 3-month period. After all the data is in AWS, we will retire our current backup infrastructure. We'd like to have the data migrated into AWS by the end of 3 months, then have another 3 months to run recoverability tests.
 ## With this additional detail, what AWS services are a good fit for the ACRA migration and local data access? (Choose TWO responses.)
