@@ -33,7 +33,6 @@
 </div>
 
 ## CacheCloud是什么？
-
 CacheCloud是一个Redis云管理平台：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 
 <img src="cachecloud-web/src/main/resources/static/img/readme/cachecloud-info.png" width="100%"/>
