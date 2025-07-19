@@ -17,7 +17,6 @@
 ---
 notifications:
   commits: commits@superset.apache.org
-  issues: notifications@superset.apache.org
   pullrequests: notifications@superset.apache.org
   discussions: notifications@superset.apache.org
   del_branch_on_merge: true
