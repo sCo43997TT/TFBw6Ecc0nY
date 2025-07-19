@@ -64,7 +64,6 @@ notifications:
         # unfortunately AFAICT for `matrix:` jobs, we have to itemize every
         # combination here.
         contexts:
-          - lint-check
           - cypress-matrix (0, chrome)
           - cypress-matrix (2, chrome)
           - cypress-matrix (3, chrome)
