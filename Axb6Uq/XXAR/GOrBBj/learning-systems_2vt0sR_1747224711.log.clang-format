@@ -3,5 +3,4 @@
 # The -i means inplace change.
 IndentWidth:     4
 Standard:  Cpp11
-AllowAllParametersOfDeclarationOnNextLine: true
 ...
