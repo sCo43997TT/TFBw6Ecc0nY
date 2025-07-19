@@ -5,7 +5,6 @@
 
 [CI checks on main badge]: https://flat.badgen.net/github/checks/sohutv/cachecloud/main?label=CI%20status%20on%20main&cache=900&icon=github
 [CI checks on main link]:https://github.com/sohutv/cachecloud/actions?query=branch%3Amain
-[github forks badge]: https://flat.badgen.net/github/forks/sohutv/cachecloud?icon=github
 [github forks link]: https://useful-forks.github.io/?repo=sohutv%2Fcachecloud
 [github open issues badge]: https://flat.badgen.net/github/open-issues/sohutv/cachecloud?icon=github
 [github open issues link]: https://github.com/sohutv/cachecloud/issues?q=is%3Aissue+is%3Aopen
