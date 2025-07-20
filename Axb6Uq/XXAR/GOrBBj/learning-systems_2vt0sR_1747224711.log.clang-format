@@ -2,5 +2,4 @@
 #   clang-format -i -style=file PATH/TO/SOURCE/CODE
 # The -i means inplace change.
 IndentWidth:     4
-Standard:  Cpp11
 ...
