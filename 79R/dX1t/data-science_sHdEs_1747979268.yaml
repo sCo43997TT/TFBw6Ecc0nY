@@ -28,7 +28,6 @@ notifications:
     - data-viz
     - analytics
     - business-intelligence
-    - data-science
     - data-engineering
     - asf
     - bi
