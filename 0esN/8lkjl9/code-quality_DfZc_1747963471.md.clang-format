@@ -11,7 +11,6 @@ BreakBeforeBraces: Attach
 BreakConstructorInitializersBeforeComma: false
 CommentPragmas:  '^@atd'
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
-ConstructorInitializerIndentWidth: 4
 ContinuationIndentWidth: 4
 Cpp11BracedListStyle: true
 DerivePointerAlignment: false
