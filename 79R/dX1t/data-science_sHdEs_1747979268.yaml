@@ -25,7 +25,6 @@ notifications:
     - superset
     - apache-superset
     - data-visualization
-    - data-viz
     - analytics
     - business-intelligence
     - data-engineering
