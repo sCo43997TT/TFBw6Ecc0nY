@@ -6,7 +6,6 @@ AlwaysBreakBeforeMultilineStrings: true
 BinPackArguments: false
 BinPackParameters: false
 BreakBeforeBinaryOperators: false
-BreakBeforeBraces: Attach
 BreakConstructorInitializersBeforeComma: false
 CommentPragmas:  '^@atd'
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
