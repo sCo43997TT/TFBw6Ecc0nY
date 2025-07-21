@@ -1,4 +1,3 @@
 # It need to install llvm and clang to format source code style.
 #   clang-format -i -style=file PATH/TO/SOURCE/CODE
 # The -i means inplace change.
-IndentWidth:     4
