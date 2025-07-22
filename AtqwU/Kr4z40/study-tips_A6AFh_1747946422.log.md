@@ -61,5 +61,4 @@ We intend for the migration to happen over a 3-month period. After all the data 
 - [x] Amazon S3 File Gateway
 - [ ] AWS Transfer Family
 
-
 Source: https://explore.skillbuilder.aws/learn/course/15545/play/76124/planning-large-scale-data-migrations-to-aws
