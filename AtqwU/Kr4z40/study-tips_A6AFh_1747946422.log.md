@@ -14,7 +14,6 @@ Cost. We need to only spend as much as we consume with our data.
 
 #### Is this a one-time migration or a recurring data transfer?
 This project calls for an initial replication of 400 TB, then subsequent replication as new content is created.
-
 #### What events or milestones are driving your migration schedule?
 Hardware contracts are ending soon. We'd like to ensure that we have enough time to thoroughly test our backup and disaster recovery plans before that time.
 
