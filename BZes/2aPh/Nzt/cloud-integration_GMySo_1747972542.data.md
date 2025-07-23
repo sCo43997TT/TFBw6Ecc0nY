@@ -74,7 +74,6 @@ CacheCloud是一个Redis云管理平台：支持Redis多种架构(Standalone、S
    
 + 微信群:
 
-<img src="http://photocdn.tv.sohu.com/img/cachecloud/weixin.jpg" width="30%"/>
 
 <img src="cachecloud-web/src/main/resources/static/img/readme/subcribe.png" width="30%"/>
 
