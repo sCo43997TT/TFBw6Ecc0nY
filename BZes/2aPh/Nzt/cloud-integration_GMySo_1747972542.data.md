@@ -1,6 +1,5 @@
 [中文](README_CN.md) | [EN](README_EN.md)
 ![cachecloud云平台](cachecloud-web/src/main/resources/static/img/readme/cachecloud-head.png)
-
 [![CI checks on main badge]][CI checks on main link] [![latest release badge]][latest release link] [![github stars badge]][github stars link] [![github forks badge]][github forks link] [![github open issues badge]][github open issues link] [![github open prs badge]][github open prs link] [![latest commit to main badge]][latest commit to main link]
 
 [CI checks on main badge]: https://flat.badgen.net/github/checks/sohutv/cachecloud/main?label=CI%20status%20on%20main&cache=900&icon=github
