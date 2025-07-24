@@ -20,7 +20,6 @@ notifications:
   pullrequests: notifications@superset.apache.org
   discussions: notifications@superset.apache.org
   del_branch_on_merge: true
-  labels:
     - superset
     - apache-superset
     - data-visualization
