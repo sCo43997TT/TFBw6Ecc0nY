@@ -23,7 +23,6 @@ notifications:
     - superset
     - apache-superset
     - data-visualization
-    - analytics
     - business-intelligence
     - data-engineering
     - asf
