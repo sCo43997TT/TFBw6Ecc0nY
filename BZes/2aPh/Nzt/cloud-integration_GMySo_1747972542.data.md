@@ -13,7 +13,6 @@
 [latest commit to main link]: https://github.com/sohutv/cachecloud/commits/main
 [latest release badge]: https://flat.badgen.net/github/release/sohutv/cachecloud/development?icon=github
 
-<div align="center">
   <h2>CacheCloud云平台</h2>
   <a href="https://github.com/sohutv/cachecloud/blob/main/cachecloud-web/src/main/resources/static/wiki/quickstart/index.md">Quickstart</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
