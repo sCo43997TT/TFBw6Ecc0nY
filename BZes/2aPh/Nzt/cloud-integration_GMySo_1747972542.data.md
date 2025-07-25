@@ -47,7 +47,6 @@ CacheCloud是一个Redis云管理平台：支持Redis多种架构(Standalone、S
 <a name="cc4"/>
 
 
-+ 800亿+ commands/day
 + 420+ app Total / 4800+ Instances Total
 
 <a name="cc5"/>
