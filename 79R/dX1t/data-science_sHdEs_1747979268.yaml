@@ -26,7 +26,6 @@ notifications:
     - bi
     - business-analytics
     - data-analytics
-    - data-analysis
     - python
     - react
     - sql-editor
