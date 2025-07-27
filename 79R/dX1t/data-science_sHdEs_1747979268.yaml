@@ -37,7 +37,6 @@ notifications:
     discussions: true
 
   enabled_merge_buttons:
-    squash: true
     merge: false
     rebase: false
 
