@@ -34,7 +34,6 @@ Yes, we have both storage and IT staff available for this migration project. We 
 
 ## AWS destination
 
-#### What is the AWS destination for your data?
 Our destination is Amazon S3.
 
 #### Where is the AWS destination? (For example, what is the target Region?)
