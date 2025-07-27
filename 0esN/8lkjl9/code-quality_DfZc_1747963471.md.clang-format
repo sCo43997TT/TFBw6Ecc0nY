@@ -1,4 +1,3 @@
-AlignEscapedNewlinesLeft: true
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: false
 BinPackArguments: false
