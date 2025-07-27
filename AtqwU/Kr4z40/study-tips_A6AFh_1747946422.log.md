@@ -1,6 +1,5 @@
 AnyCompany Racing Automotive (ACRA) is a global racing organization that hosts races in multiple geographical locations. ACRA needs to replicate its 400 TB video archive to an offsite location. However, this video content must remain accessible locally and with low latency. ACRA doesn't want to invest in another data center for its offsite requirement. ACRA will need to replicate additional video content over time.
 
-## Migration
 
 ACRA wants to replicate its 400 TB video archive to AWS. ACRA qualifies as a large-scale migration effort and requires a plan to move its data to Amazon S3.
 
