@@ -9,7 +9,6 @@ MaxEmptyLinesToKeep: 1
 PenaltyReturnTypeOnItsOwnLine: 200
 PointerAlignment: Left
 SpaceBeforeAssignmentOperators: true
-SpaceInEmptyParentheses: false
 SpacesBeforeTrailingComments: 1
 Standard:        Cpp11
 UseTab:          Never
