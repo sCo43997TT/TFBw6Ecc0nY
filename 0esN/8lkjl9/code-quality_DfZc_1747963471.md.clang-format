@@ -4,7 +4,6 @@ BinPackArguments: false
 BinPackParameters: false
 CommentPragmas:  '^@atd'
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
-Cpp11BracedListStyle: true
 DerivePointerAlignment: false
 ExperimentalAutoDetectBinPacking: true
 MaxEmptyLinesToKeep: 1
