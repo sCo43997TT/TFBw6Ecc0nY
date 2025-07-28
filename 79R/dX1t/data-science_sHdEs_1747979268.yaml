@@ -55,7 +55,6 @@ notifications:
           - cypress-matrix (4, chrome)
           - cypress-matrix (5, chrome)
           - dependency-review
-          - frontend-build
           - pre-commit (previous)
           - test-mysql
           - test-postgres (current)
