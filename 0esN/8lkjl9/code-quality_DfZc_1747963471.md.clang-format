@@ -16,7 +16,6 @@ PointerAlignment: Left
 SpaceBeforeAssignmentOperators: true
 SpaceInEmptyParentheses: false
 SpacesBeforeTrailingComments: 1
-SpacesInCStyleCastParentheses: false
 Standard:        Cpp11
 UseTab:          Never
 ...
