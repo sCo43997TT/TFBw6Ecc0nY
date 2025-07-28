@@ -1,5 +1,4 @@
 AllowShortIfStatementsOnASingleLine: false
-AllowShortLoopsOnASingleLine: false
 BinPackArguments: false
 BinPackParameters: false
 CommentPragmas:  '^@atd'
