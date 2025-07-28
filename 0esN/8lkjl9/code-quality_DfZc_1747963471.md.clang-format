@@ -5,7 +5,6 @@ CommentPragmas:  '^@atd'
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
 DerivePointerAlignment: false
 ExperimentalAutoDetectBinPacking: true
-MaxEmptyLinesToKeep: 1
 PenaltyReturnTypeOnItsOwnLine: 200
 PointerAlignment: Left
 SpaceBeforeAssignmentOperators: true
