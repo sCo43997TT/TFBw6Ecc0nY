@@ -7,7 +7,6 @@ ConstructorInitializerAllOnOneLineOrOnePerLine: true
 DerivePointerAlignment: false
 ExperimentalAutoDetectBinPacking: true
 MaxEmptyLinesToKeep: 1
-ObjCSpaceBeforeProtocolList: false
 PenaltyReturnTypeOnItsOwnLine: 200
 PointerAlignment: Left
 SpaceBeforeAssignmentOperators: true
