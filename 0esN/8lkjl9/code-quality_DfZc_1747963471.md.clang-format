@@ -18,4 +18,3 @@ SpaceInEmptyParentheses: false
 SpacesBeforeTrailingComments: 1
 Standard:        Cpp11
 UseTab:          Never
-...
