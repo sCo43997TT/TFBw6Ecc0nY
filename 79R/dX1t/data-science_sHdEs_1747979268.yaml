@@ -28,7 +28,6 @@ notifications:
     - python
     - react
     - sql-editor
-    # Enable issues management
     issues: true
     # Enable projects for project management boards
     wiki: true
