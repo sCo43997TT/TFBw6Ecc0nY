@@ -1,5 +1,4 @@
 AllowShortIfStatementsOnASingleLine: false
-BinPackArguments: false
 BinPackParameters: false
 CommentPragmas:  '^@atd'
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
