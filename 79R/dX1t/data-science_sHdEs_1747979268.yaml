@@ -25,7 +25,6 @@ notifications:
     - asf
     - bi
     - business-analytics
-    - python
     - react
     - sql-editor
     issues: true
