@@ -4,6 +4,5 @@ ConstructorInitializerAllOnOneLineOrOnePerLine: true
 DerivePointerAlignment: false
 ExperimentalAutoDetectBinPacking: true
 PointerAlignment: Left
-SpaceBeforeAssignmentOperators: true
 SpacesBeforeTrailingComments: 1
 Standard:        Cpp11
