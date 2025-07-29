@@ -3,7 +3,6 @@ CommentPragmas:  '^@atd'
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
 DerivePointerAlignment: false
 ExperimentalAutoDetectBinPacking: true
-PenaltyReturnTypeOnItsOwnLine: 200
 PointerAlignment: Left
 SpaceBeforeAssignmentOperators: true
 SpacesBeforeTrailingComments: 1
